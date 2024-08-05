@@ -2,9 +2,7 @@
 Un système de suivi de l'avancement périodique des doctorants au sein de notre projet de gestion des activités doctorales dans le laboratoire. Cette fonctionnalité vise à permettre aux doctorants de soumettre périodiquement des informations sur leur progrès dans leurs projets de recherche, tandis que les directeurs de thèse pourront évaluer, noter et visualiser ces progrès de manière centralisée.
 ![image](https://github.com/user-attachments/assets/9ace5d55-c735-41ae-b4dd-71b62d308382)
 
-# My Project
-
-## Technologies Utilisées
+# Langages Utilisées
 
 ### Front End et Outils de Visualisation
 
